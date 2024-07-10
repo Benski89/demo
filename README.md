@@ -2,6 +2,4 @@
 
 This is a sample read me file
 
-##hEADING
-
-HI THERE 
+just something for the boys  
